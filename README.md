@@ -1,12 +1,32 @@
-# React + Vite
+# This is repository for Exercise 4 Web Client Development(WCD)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repository is intended to explore React + Typescript + Vite + Tailwind CSS. the project is build according to the provided UI design. [Figma reference](https://www.figma.com/design/rdUyThdkuA3XXuUwRYuGpN/intro-react?node-id=1-40&t=gvJVwDE6vY8NoNkR-0)
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![image 1](./readme_assets/assets1.png)
 
-## Expanding the ESLint configuration
+## How to Run Locally
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Clone the project
+
+```bash
+  git clone https://github.com/ZaField/WCD03_Assignment4.git
+```
+
+Go to the project directory
+
+```bash
+  cd WCD03_Assignment4
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the development
+
+```bash
+  npm run dev
+```
